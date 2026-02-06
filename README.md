@@ -1,1 +1,5 @@
 This report examines an open source dataset related to warehouse and retail sales of alcoholic beverages which consists of nine feature columns and 308K rows (Table 1). This dataset is large enough to be considered for complex querying, however not considered big data. The dataset is ideal to demonstrate comparisons between the use of traditional and big data analytical data processing techniques and therefore was chosen to conduct a series of data analytic queries using both Pandas and PySpark. Since a good comparison would require a very large dataset to provide a big data analytical experience, this dataset was expanded using synthetic data (python coding) to a total of 5 million records and saved as a csv file in google drive. All data processing and analytics uses google Colab since installation of spark locally was not achievable. Furthermore, use of cloud computing would require taking a whole course in this area which would not be practical given the short deadlines for these types of projects. The features of this dataset are summarized in Table 1 below.
+
+
+![alt text](image.png)
+
